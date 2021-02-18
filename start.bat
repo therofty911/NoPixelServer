@@ -1,2 +1,2 @@
-start C:\Users\admin\Desktop\Server\NoPixel\run.cmd
+start D:\FXserver\np\NoPixelServer\run.cmd
 exit
